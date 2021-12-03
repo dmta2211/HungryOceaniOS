@@ -17,7 +17,9 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [AppMetrica] (https://yandex.ru/legal/confidential/?lang=en)
+*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
+*   [Appmetrica](https://yandex.ru/legal/confidential/?lang=en)
+*   [Unity](https://unity3d.com/legal/privacy-policy)
 
 **Log Data**
 
