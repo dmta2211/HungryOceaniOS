@@ -22,6 +22,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Appodeal](https://appodeal.com/privacy-policy/)
 *   [Vungle](https://vungle.com/privacy/)
 *   [Yandex](https://yandex.ru/legal/confidential/?lang=en)
+*   [BidMachine](https://bidmachine.io/privacy-policy/)
 
 **Log Data**
 
